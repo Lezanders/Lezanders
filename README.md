@@ -14,7 +14,7 @@
  
 <br>
  
-### Mais formas de contato nas redes abaixo!
+### Get in toch with me at:
  
 <div> 
   <a href = "mailto:aljfenixsat@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
